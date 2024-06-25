@@ -67,3 +67,6 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+[![Open in Dev Container](https://img.shields.io/badge/Open%20in-Dev%20Container-blue)](vscode://vscode-remote/cloneRepo?url=https://github.com/<your-username>/wordpress-vscode-container)
+
