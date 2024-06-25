@@ -32,7 +32,7 @@ Once the container is built and up and running, you should be able to access the
 
 ## Opening in Dev Container
 
-[![Open in Dev Container](https://img.shields.io/badge/Open%20in-Dev%20Container-blue)](vscode://vscode-remote/cloneRepo?url=https://github.com/noeoedi/wordpress-vscode-container)
+[![Open in Dev Container](https://img.shields.io/badge/Open%20in-Dev%20Container-blue)](vscode://vscode-remote/containers?url=https://github.com/noeoedi/wordpress-vscode-container)
 
 ## Making Changes
 
